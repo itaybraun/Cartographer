@@ -14,7 +14,7 @@ into a business. No prior experience is needed.
 
 ## The three books
 
-### 1. Building Blocks of Software
+### 1. [Building Blocks of Software]({{ '/building-blocks/' | relative_url }})
 Servers, the cloud, databases, queues, serverless, and observability, explained
 from scratch. Start here if you're new to technology.
 
@@ -28,6 +28,6 @@ version, and growing from there.
 
 ## Where to go next
 
-- **Building Blocks of Software**: the best place to begin
+- [**Building Blocks of Software**]({{ '/building-blocks/' | relative_url }}): the best place to begin
 - **Software Lifecycle**: how software gets made and shipped
 - **Building a Startup**: from idea to first customers
