@@ -6,3 +6,12 @@ url: https://itaybraun.github.io
 
 aux_links:
   Cartographer on GitHub: https://github.com/itaybraun/Cartographer
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+color_scheme: light    # or dark
+footer_content: "© 2026 Cartographer"
